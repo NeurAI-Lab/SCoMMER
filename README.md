@@ -1,5 +1,5 @@
 # SCoMMER
-Official Repository for the AAAI'23 paper [Sparse Coding in a Dual Memory System for Lifelong Learning](https://arxiv.org/pdf/2301.05058.pdf)
+Official Repository for the **(Oral)** AAAI'23 paper [Sparse Coding in a Dual Memory System for Lifelong Learning](https://arxiv.org/pdf/2301.05058.pdf)
 
 We extended the [CLS-ER](https://github.com/NeurAI-Lab/CLS-ER) repo with our method
 
